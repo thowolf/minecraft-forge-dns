@@ -26,7 +26,6 @@ docker exec -ti minecraft-dns manage help
   * [Atum 0.6.34](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288464)
   * [Backpacks 2.0.0](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286124)
   * [BDLib 1.6.5.52](http://bdew.net/2014/07/15/bdlib-update-for-1-7-210/)
-
   * [Better Storage 0.12.0.124](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1442380)
   * [Biblio Craft 1.10.0](http://www.bibliocraftmod.com/)
   * [BiblioWoods Biomes O' Plenty 1.9](http://www.bibliocraftmod.com/?page_id=50#bibliowoods)
@@ -117,7 +116,6 @@ docker exec -ti minecraft-dns manage help
   * [Super Crafting Frame 1.7.10.1](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290201)
   * [Thaumcraft 4.2.1.4](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130)
   * [Thaumic Tinkerer 2.5-1.7.10-158](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289299)
-  * [Thermal Dynamics 1.0.0RC7-98](http://teamcofh.com/)
   * [Thermal Expansion 4.0.0RC7-141](http://teamcofh.com/)
   * [Thermal Foundation 1.0.0RC7-62](http://teamcofh.com/)
   * [Tinkers Construct 1.8.2a](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638)
