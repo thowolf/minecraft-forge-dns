@@ -1,7 +1,8 @@
 # Minecraft DNSTechpack on Forge
 
 These are docker images for Minecraft DNSTechpack running on an
-[Minecraft Forge container](https://registry.hub.docker.com/webhippie/minecraft-forge/)
+[Minecraft Forge container](https://registry.hub.docker.com/webhippie/minecraft-forge/).
+The cuurrent container size is ```363.1 MB```
 
 
 ## Usage
